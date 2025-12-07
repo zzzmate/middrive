@@ -2,7 +2,7 @@
 
 middrive is a simple, invitation-only video hosting platform
 
-you can upload videos, protect them with an optional password, and each video automatically gets a set of randomly generated thumbnails.
+you can upload videos, protect them with an optional password, and each video automatically gets a set of randomly generated thumbnails
 the platform includes its own custom video player for smooth playback
 
 embedding support is coming soon
